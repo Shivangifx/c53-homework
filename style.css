@@ -1,0 +1,47 @@
+
+.container{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+background-color:rgb(10, 10, 10);
+text-align: center;
+}
+.head{
+display: flex;
+align-items: center;
+justify-content: center;
+color: darkcyan;
+font-size:50px;
+}
+
+.component{
+position: absolute;
+left:90;
+transform: translate(-290%,199%);
+margin-right: '70%';
+color: whitesmoke;
+}
+
+.libraries{
+    position: absolute;
+    left:10;
+    transform: translate(590%,199%);
+    color: whitesmoke;
+    }
+
+    .button{
+width: 120%;
+    }
+    .button1{
+width: 60%;
+    }
+
+    .componentText{
+        text-align: center;
+    }
+    .componenttext{
+        font: medium;
+        color: whitesmoke;
+        
+    }
